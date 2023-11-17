@@ -4,12 +4,12 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Xdryzen\\Larachan\\": "src/"
+            "Xdryzen\\Larachan\\": "/"
         }
     },
     "authors": [
         {
-            "name": "team"
+            "name": "termux indonesia"
         }
     ],
     "require": {}
