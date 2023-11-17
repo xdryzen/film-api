@@ -1,0 +1,16 @@
+{
+    "name": "xdryzen/larachan",
+    "description": "PHP Framework",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Xdryzen\\Larachan\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "team"
+        }
+    ],
+    "require": {}
+}
